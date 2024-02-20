@@ -1368,8 +1368,6 @@ footer ul li a {
     display: block;
     margin: auto;
     width: 30%;
-    max-width: 30%;
-    min-width: 30%;
     height: 80%;
     border: solid 2px #120A19;
     background-color: lightblue;
@@ -1377,13 +1375,13 @@ footer ul li a {
     border-radius: 10px;
     margin-top: 100px;
 }
+
     @media only screen and (max-width:768px){
     
       .g-container{
         width: 70%;
       }    
 }
-
 .g-container h1{
     display: flex;
     margin: 4% auto;
@@ -1515,3 +1513,26 @@ input:hover {
 .t2{
   background-color: #e1f7fa;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
